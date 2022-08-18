@@ -1,0 +1,43 @@
+
+.container {
+font-size:25px;
+color: black; 
+ gap: 50px;
+ font-family:'Times New Roman', Times, serif; 
+ padding: 20px 20px 20px 20px;
+ border: 5px solid #73AD21;
+ background-color: blue;
+ display: flex;
+ position: fixed;
+ text-align:left;
+}
+.page{ 
+  background: white;
+  border-radius: 20px;
+  position:static;
+  border: 10px solid white;
+  padding: 20px;
+font-family:Arial, Helvetica, sans-serif;
+}
+.button{
+  font-size: 35px;
+  border-radius: 50px;
+  align-items: center;
+  width: 350px; 
+  opacity: 0.7;
+  height: 50px;  
+  position:static;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  
+}
+.paragraph{
+  text-align: center;
+  font-weight:lighter;
+
+}
+.paragraph-heading
+{
+text-align: center;
+color:rgb(187, 182, 182);
+}
+
